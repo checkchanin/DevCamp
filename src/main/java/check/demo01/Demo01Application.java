@@ -6,6 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Demo01Application {
 	public static void main(String[] args) {
-		SpringApplication.run(HelloWorldController.class, args);
+		SpringApplication.run(Demo01Application.class, args);
 	}
 }
